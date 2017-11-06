@@ -1,2 +1,2 @@
-# DecisionTreeClassifiers
-This includes codes implemented for classifying iris data set usinf Decision Tree Classifiers.
+# Machine-Learning
+This repository includes codes practiced during the Machine Learning Course BITS F464.
